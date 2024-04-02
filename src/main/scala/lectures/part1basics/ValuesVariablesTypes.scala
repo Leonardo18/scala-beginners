@@ -1,5 +1,6 @@
 package lectures.part1basics
 
+// Extends APP turns this object a runnable like as a main function declare
 object ValuesVariablesTypes extends App {
 
   //Values
