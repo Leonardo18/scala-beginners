@@ -2,7 +2,6 @@ package lectures.part1basics
 
 object Functions extends App {
 
-
   // Function declaration with parameters and type of return
   def aFunction(a: String, b: Int): String = {
     a + " " + b
